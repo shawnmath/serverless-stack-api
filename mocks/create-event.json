@@ -1,0 +1,11 @@
+{
+  "body": { 
+    "content": "1/25/20 Test Note",
+    "attachment": "01252020_test.jpg"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "body": {
+    "content": "Update 1/25/20 Note",
+    "attachment": ""
+  },
+  "pathParameters": {
+    "id": "3edcfdd0-3fcc-11ea-af2b-9f9fc195c4a6"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
